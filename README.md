@@ -1,7 +1,12 @@
 
   # sih coffee and code
 
-  This is a code bundle for sih coffee and code. The original project is available at https://www.figma.com/design/UM9tkSq2FLCnoMkg6StTtW/sih-coffee-and-code.
+  Team Members
+  1.Om Kumar Yadav
+  2.Kriti Sharma
+  3.Sanvi Gupta
+  4.Ritik Chauhan Rajput
+  5.Riya Bhatnagar
 
   ## Running the code
 
