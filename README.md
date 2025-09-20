@@ -5,7 +5,7 @@
   1.Om Kumar Yadav
   2.Kriti Sharma
   3.Sanvi Gupta
-  4.Ritik Chauhan Rajput
+  4.Ritik Chauhan 
   5.Riya Bhatnagar
 
   ## Running the code
